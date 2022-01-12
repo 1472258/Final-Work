@@ -1,4 +1,4 @@
-﻿int[] array = new int[] {1, 42, 4, 452, 70, 69, 80, 741, 82, 91, 92 };
+﻿int[] array = new int[] {1, 42, 49, 45, 70, 69, 80, 74, 82, 91 };
 var str = string.Join(" ", array);
 Console.WriteLine(str);
  for(int i=0; i<=9; i++) {
